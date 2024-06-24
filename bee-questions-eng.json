@@ -1,0 +1,12 @@
+{
+ "howold": ["How many years do you live?","How long do you live?","How old are you dying?","Do you live for many years?"],
+ "honeyquant":[ "How much honey can a bee make?","How many jars of honey does a bee make?","It's a lot of honey that a bee makes?","How much honey can a bee store?","How much honey can a bee collect?"],
+ "flyattrs":["How high you fly?","How high can you fly?","You can fly too high?","How fast do you fly?","At what speed do you fly?"],
+ "angry":["You get angry when you see black?","What makes you angry?","What makes you nervous?","Is there a color that makes you angry?","You get angry when you see a dark color?"],
+ "hivemaking":["How do you make the hive?","What materials do you make the hive with?","Where to find the materials to build your hive?","Where to find the materials to build your nest?"],
+ "carryattrs":["How much nectar can you carry?","How much weight can you lift?","How do you transfer flower nectar?","How do you carry pollen?","How do you carry the nectar of flowers?","How do you pick up pollen?"],
+ "navigation":["How do you find your way back to the hive?","What do you do if you lose your way?","How do you know to go back?","What do you do if you get lost?","How do you find the way back to your nest?"],
+ "population":["How many bees live in the hive?","How many bees fit in the hive?","How many bees fit inside?","How many bees can nest in the hive?"],
+ "honeyprod":["How do you make honey?","How to make honey?","How honey is made?","How from pollen is made honey?"],
+ "sphinx":["If a bee fights with a sphinx who wins?","Which is stronger, the bee or the sphinx?","Can the bee defeat the sphinx?","The sphinx always beats you?","How do you fight enemies like the sphinx?"]
+}
