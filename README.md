@@ -41,7 +41,7 @@
 ## Οδηγός Εκτέλεσης
 
 Για να δοκιμάσετε την εφαρμογή:
-1. Πλοηγηθείτε στην [διεύθυνση της προσωρινής εγκατάστασης του web προγράμματος Scratch 3](https://5thkindergardenofdrama.github.io/textClassification/).
+1. Πλοηγηθείτε στην [διεύθυνση της προσωρινής εγκατάστασης του web προγράμματος Scratch 3](https://5thkindergartenofdrama.github.io/textClassification/).
 2. Κατεβάστε το αρχείο με το πρόγραμμα Scratch [BlueBee-Chat-Bot.sb3](./BlueBee-Chat-Bot.sb3).
 3. Φορτώστε το αρχείο που μόλις κατεβάσατε, στο web πρόγραμμα του Scratch:
    |![](images/load_sb3.png)|
@@ -131,9 +131,9 @@
 - τόσο τα σφάλματα μετάφρασης σε αυτή τη διαδικασία όσο και το όριο των 9 κλάσεων να εξεταστούν αργότερα.
  
 Για τη διερεύνηση και την αντιμετώπιση, αυτών των προβλημάτων:
-1. Ο κώδικας του [αποθετηρίου (repository) ανάπτυξης επεκτάσεων Scratch του playground της RAISE στο github](https://github.com/mitmedialab/prg-extension-boilerplate), αντιγράφηκε με τη λειτουργία fork σε repository του [Οργανισμού github του 5ου Νηπιαγωγείου Δράμας](https://github.com/5thKindergardenOfDrama/).
+1. Ο κώδικας του [αποθετηρίου (repository) ανάπτυξης επεκτάσεων Scratch του playground της RAISE στο github](https://github.com/mitmedialab/prg-extension-boilerplate), αντιγράφηκε με τη λειτουργία fork σε repository του [Οργανισμού github του 5ου Νηπιαγωγείου Δράμας](https://github.com/5thKindergartenOfDrama/).
 2. Διορθώθηκε το πρόβλημα των λαθών στην κλήση της υπηρεσίας κατά το στάδιο του ελέγχου/χρήσης του chatbot και
-3. Διατέθηκε προς χρήση (deployed) αντίγραφο συνολικά του RAISE playground με τη διορθωμένη -και όλες τις υπόλοιπες επεκτάσεις του- στην προσωρινή διεύθυνση https://5thkindergardenofdrama.github.io/textClassification/ υπό την [άδεια χρήσης που ορίζει το RAISE Playground](https://playground.raise.mit.edu/Landing%20Page/About.html).
+3. Διατέθηκε προς χρήση (deployed) αντίγραφο συνολικά του RAISE playground με τη διορθωμένη -και όλες τις υπόλοιπες επεκτάσεις του- στην προσωρινή διεύθυνση https://5thkindergartenofdrama.github.io/textClassification/ υπό την [άδεια χρήσης που ορίζει το RAISE Playground](https://playground.raise.mit.edu/Landing%20Page/About.html).
 
 Πρόθεσή μας είναι να ακολουθήσουμε την προτροπή των μελών της κοινότητας ανάπτυξης του RAISE Playground 
 
@@ -144,7 +144,7 @@
 - οι διορθώσεις γίνουν αποδεκτές από την κοινότητα και
 - προστεθούν στην "επίσημη" επέκταση "TextClassification" του playground στη διεύθυνση https://playground.raise.mit.edu/main/,
 
-οι ενδιαφερόμενοι να παραπέμπονται σε αυτή τη διεύθυνση εκτέλεσης του chatbot, αντί της προσωρινής https://5thkindergardenofdrama.github.io/textClassification/ στην οποία παραπέμπονται για την ώρα!
+οι ενδιαφερόμενοι να παραπέμπονται σε αυτή τη διεύθυνση εκτέλεσης του chatbot, αντί της προσωρινής https://5thkindergartenofdrama.github.io/textClassification/ στην οποία παραπέμπονται για την ώρα!
 
 ## Οι "Μεγάλοι" των Μελένιων (Ομάδα Έργου)
 - ***Μαρία Παπαδοπούλου***, **Εκπαιδευτικός ΠΕ60**, Προϊσταμένη 5ου Νηπιαγωγείου Δράμας, mariapap14771@gmail.com
